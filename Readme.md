@@ -7,6 +7,8 @@
   </a>
 </p>
 
+# Key Repositories and Contributions
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://api.githubtrends.io/user/svg/rayhanalmim/repos?time_range=one_year&include_private=true&group=private&loc_metric=changed&theme=dark" />
@@ -19,3 +21,4 @@
 - I have successfully completed several projects using the MERN stack. Currently, I am actively engaged in learning TypeScript, Redux, and Next.js to further enhance my skill set and stay updated with the latest technologies
 ### I'm looking 
 - I am seeking an opportunity where I can progressively enhance my skills on a daily basis while contributing to the growth and success of the organization.
+
