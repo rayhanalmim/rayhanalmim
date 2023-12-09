@@ -3,15 +3,15 @@
 # :trophy: Tecnologys that i know
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,react,js,firebase,html,css,express,vscode,stackoverflow,tailwind,vercel,netlify,github,figma&perline=5" width="800" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,react,js,firebase,html,css,express,vscode,stackoverflow,tailwind,vercel,netlify,github,figma&perline=5" />
   </a>
 </p>
 
 # :chart_with_upwards_trend: Key Repositories and Contributions
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://api.githubtrends.io/user/svg/rayhanalmim/repos?time_range=one_year&include_private=true&group=private&loc_metric=changed&theme=dark" />
+  <a >
+    <img src="https://api.githubtrends.io/user/svg/rayhanalmim/repos?time_range=one_year&include_private=true&group=private&loc_metric=changed&theme=dark"  width="800" />
   </a>
 </p>
 
