@@ -12,11 +12,10 @@
 <p>
   <a href="https://skillicons.dev">
     <img src="https://api.githubtrends.io/user/svg/rayhanalmim/repos?time_range=one_year&include_private=true&group=private&loc_metric=changed&theme=dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rayhanalmim&theme=dark" />
+    
   </a>
 </p>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rayhanalmim&theme=dark)
-![]([http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rayhanalmim&theme=dark&utcOffset=8](https://api.githubtrends.io/user/svg/avgupta456/repos?time_range=one_year&include_private=true&group=private&loc_metric=changed&theme=dark))
 
 
 
