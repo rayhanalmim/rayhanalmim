@@ -15,6 +15,8 @@
   </a>
 </p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayhanalmim&theme=dark)
+
 
 # Current overview
 ### I'm exploring 
@@ -22,5 +24,5 @@
 ### I'm looking 
 - I am seeking an opportunity where I can progressively enhance my skills on a daily basis while contributing to the growth and success of the organization.
 
-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayhanalmim&theme=dark)
+
 
