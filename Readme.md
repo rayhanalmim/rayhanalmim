@@ -16,6 +16,7 @@
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rayhanalmim&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rayhanalmim&theme=dark&utcOffset=8)
 
 
 
