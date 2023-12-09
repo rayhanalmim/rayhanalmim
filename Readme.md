@@ -2,8 +2,8 @@
 
 # :trophy: Tecnologys that i know
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,react,js,firebase,html,css,express,vscode,stackoverflow,tailwind,vercel,netlify,github,figma&perline=5" />
+  <a>
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,react,js,firebase,html,css,express,vscode,stackoverflow,tailwind,vercel,netlify,github,figma&perline=5" width="800" />
   </a>
 </p>
 
