@@ -9,7 +9,7 @@
 
 # Key Repositories and Contributions
 
-<p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://api.githubtrends.io/user/svg/rayhanalmim/repos?time_range=one_year&include_private=true&group=private&loc_metric=changed&theme=dark" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rayhanalmim&theme=dark" />
