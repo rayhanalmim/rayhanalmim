@@ -16,7 +16,7 @@
 </p>
 
 
-## Current overview
+# Current overview
 ### I'm exploring 
 - I have successfully completed several projects using the MERN stack. Currently, I am actively engaged in learning TypeScript, Redux, and Next.js to further enhance my skill set and stay updated with the latest technologies
 ### I'm looking 
