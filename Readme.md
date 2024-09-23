@@ -15,7 +15,7 @@
   </a>
 </p>
 
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/rayhanalmim/github-readme-stats)
 
 # :pushpin: Current overview
 ### :dart: I'm exploring 
