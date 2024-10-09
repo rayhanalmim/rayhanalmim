@@ -16,11 +16,14 @@
 </p>
 
 
-# :pushpin: Current overview
-### :dart: I'm exploring 
-- I have successfully completed several projects using the MERN stack. Currently, I am actively engaged in learning TypeScript, Redux, and Next.js to further enhance my skill set and stay updated with the latest technologies
-### :mag_right: I'm looking 
+# :pushpin: Current Overview
+
+### :dart: I'm Exploring 
+- I have successfully completed several projects using various technologies, including the MERN stack, and I am currently focused on TypeScript, Next.js, and Laravel. I am also enhancing my skills with Prisma and exploring SQL and NoSQL databases to broaden my backend development expertise.
+
+### :mag_right: I'm Looking 
 - I am seeking an opportunity where I can progressively enhance my skills on a daily basis while contributing to the growth and success of the organization.
+
 
 # :loudspeaker: Featured Work
 ## Survey website
