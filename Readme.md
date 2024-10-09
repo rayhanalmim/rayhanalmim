@@ -2,9 +2,10 @@
 # :trophy: Tecnologys that i know
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,react,js,firebase,html,css,express,vscode,stackoverflow,tailwind,vercel,netlify,github,figma&perline=5" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,react,js,firebase,html,css,express,vscode,stackoverflow,tailwind,vercel,netlify,github,figma,laravel,prisma,mysql&perline=5" />
   </a>
-</p>
+</
+
 
 # :chart_with_upwards_trend: Key Repositories and Contributions
 
