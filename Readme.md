@@ -4,8 +4,6 @@
     <img src="https://skillicons.dev/icons?i=nextjs,nodejs,typescript,mysql,mongodb,prisma,react,js,firebase,html,css,express,vscode,stackoverflow,tailwind,vercel,netlify,github,figma,laravel&perline=5" />
   </a>
 </p>
-
-
 # :chart_with_upwards_trend: Key Repositories and Contributions
 
 <p align="center">
