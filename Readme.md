@@ -1,4 +1,3 @@
-
 # :trophy: Tecnologys that i know
 <p align="center">
   <a>
