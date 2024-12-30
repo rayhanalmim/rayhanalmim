@@ -12,7 +12,6 @@
   </a>
 </p>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rayhanalmim)](https://github.com/anuraghazra/github-readme-stats)
 
 # :pushpin: Current Overview
 
