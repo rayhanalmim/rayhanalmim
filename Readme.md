@@ -19,9 +19,5 @@
 ### :dart: I'm Exploring  
 I have successfully delivered multiple projects as a Full Stack Developer, utilizing Web2 technologies like **React**, **Next.js**, **Node.js**, and **Laravel**, along with Web3 expertise in **Solidity**, **Rust**, **NFTs**, **token development**, **Hardhat**, **Truffle**, and **Foundry**.  
 
-Currently, I am advancing my skills in **TypeScript**, **Prisma**, and backend development with **SQL** and **NoSQL** databases.  
-I am also delving into **cloud platforms** like **AWS** and further exploring **blockchain integration** and **smart contract security**.  
-
 ### :mag_right: I'm Looking  
 I am actively seeking opportunities to apply my expertise in both Web2 and Web3 domains to innovative and challenging projects.  
-My focus is on contributing to impactful work in **full-stack development**, while enhancing my knowledge of **data structures**, **algorithms**, and **DevOps practices**.
